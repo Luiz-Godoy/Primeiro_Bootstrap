@@ -1,6 +1,6 @@
 # Descrição
 
-Esta pasta contém os projetos realizados durante o período de estudo na ETEC-ZL.
+Primeiro projeto de bootstrap realizado durante o período de estudo na ETEC-ZL.
 
 # Utilização
     Conteúdo não publicável ou comercializável. 
